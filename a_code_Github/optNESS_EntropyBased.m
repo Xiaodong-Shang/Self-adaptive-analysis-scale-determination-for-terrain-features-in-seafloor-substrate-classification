@@ -1,9 +1,9 @@
 function [DepFea opt_nn_size] = optNESS_EntropyBased(XYZ,k_min,k_max,delta_k,n1,n2)
 % This is our tool optNESS for deriving optimal 3D neighborhoods via
 % eigenentropy-based scale selection.
-%   Martin Weinmann
-%   Institute of Photogrammetry and Remote Sensing, Karlsruhe Institute of Technology (KIT)
-%   email:   martin.weinmann@kit.edu
+%   Firstly, we used the  eigenentropy-based scale selection method according to Weinmann's paper.
+%   Secondly, we calculated the bathymetric features according to Evan's, Wilson's and Friedman's method by using the selected points to build a surface.
+%   Please cite Weinmann's paper, Evan's paper, Wilson's paper,Friedman's paper and my paper if you used this function.
 %
 
 % get point IDs
