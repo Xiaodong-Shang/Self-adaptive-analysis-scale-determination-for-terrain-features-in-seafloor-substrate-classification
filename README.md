@@ -2,7 +2,7 @@
 Please using the Main.m to start.
 Please cite our paper and other related publications.
 
-Shang, X. , Robert, K. ,  Misiuk, B. , Mackin-Mclaughlin, J. , &  Zhao, J., 2021. Self-adaptive analysis scale determination for terrain features in seafloor substrate classification. Estuarine Coastal and Shelf Science, 254, 107359.
+Shang, X., Robert, K.,  Misiuk, B., Mackin-Mclaughlin, J., Zhao, J., 2021. Self-adaptive analysis scale determination for terrain features in seafloor substrate classification. Estuarine Coastal and Shelf Science, 254, 107359.
 
 Evans, I.S., 1980. An integrated system of terrain analysis and slope mapping. Zeitschrift
 fur Geomorphologic Suppl-Bd 36, 274–295.
